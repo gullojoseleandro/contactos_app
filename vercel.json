@@ -1,7 +1,7 @@
 {
-    "build": {
-      "php": {
-        "outputPath": "dist"
-      }
+  "build": {
+    "php": {
+      "outputPath": "dist"
     }
   }
+}
