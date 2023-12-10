@@ -1,3 +1,7 @@
 .vscode
+.vercel
+node_modules
 img
 docs
+package.json
+package-lock.json
